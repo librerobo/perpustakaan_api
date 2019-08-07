@@ -1,0 +1,1 @@
+CREATE DATABASE peminjaman_buku
